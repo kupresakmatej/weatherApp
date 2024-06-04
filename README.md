@@ -1,3 +1,3 @@
 # WeatherApp
 
-WeatherApp project for the DICE iOS internship.
+WeatherApp project for the RMA university course.
